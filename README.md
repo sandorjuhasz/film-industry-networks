@@ -1,8 +1,14 @@
-# Networks behind the Hungarian film industry
+# Collaboration networks in the Hungarian film industry
 
 ###### This is a public repository for the article
 
-Juhász, S. and Lengyel, B. (2018): Creation and persistence of ties in cluster knowledge networks. *Journal of Economic Geography*, 18 (6), 1203-1226.
+Juhász, S.; Tóth, G. and Lengyel, B. (2019): Brokering the core and the periphery - creative success and collaboration networks in the film industry. *PLOS One*, -UNDER REVIEW-
 
 
-# film-industry-networks
+# scripts <br>
+
+- basic script to scrape Hungarian Film Archive page <br>
+- visualization example for 2006 film production <br>
+
+# DATA <br>
+
