@@ -38,12 +38,10 @@ file: *datacollection-entire-film-archive.py* <br>
 description
 
 
-![](figures/networks-core-broker-awardwinner.png)<br/>
-<br/>
-These figures are made by the great *graphlayouts* package.<br/>
+## Figures <br>
+The figure below represents core, broker and award winner creators in the network of 2006. Uniformly large nodes represent award winners in all three graphs. Colours of the nodes show their special positions as Core, Broker and Core & Broker & Award winner creators. Nodes with a higher degree of centrality are closer to the center of the circular layout. The network is based on a 7-year moving window, where nodes represent movie creators and edges represent collaboration on all movies made during the 7-year period. The layout is created by the graphlayouts R package. <br>
 link: *https://github.com/schochastics/graphlayouts*<br/>
 <br/>
-
 
 
 
