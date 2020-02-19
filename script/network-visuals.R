@@ -167,8 +167,7 @@ png(file_name, width=1600, height=700, units = 'px')
 
 par(mar=c(0,0,0,0), bg = NA)
 
-plot_full <- (plot1 + plot2 + plot3)
-wrap_elements(plot_full) + ggtitle('Core, Broker and Core & Broker & Award winner creators in the network of 2006') + theme(plot.title = element_text(size = 40, face = "bold"))
+plot1 + plot2 + plot3
 
 dev.off()
 
