@@ -11,7 +11,7 @@ Juhász, S.; Tóth, G. and Lengyel, B. (2019): Brokering the core and the periph
 
 ## DATA <br>
 
-Two cleaned dataset <br>
+Description - two short dataset collected from the website of the Hungarian Film Archive *link*. Both datasets are anonymized and only used for the purpose of the paper above. <br>
 
 file: *creator_movie_BASE_1975_2010.csv* <br>
 
@@ -21,8 +21,29 @@ file: *award_winners.csv* <br>
 
 ## Scripts <br>
 
-file: *datacollection*<br>
-- visualization example for 2006 film production <br>
+file: *datacollection-single-film-page.ipynb*<br>
+
+description <br>
+
+file: *datacollection-all-movies-by-year.ipynb*<br>
+
+description <br>
+
+file: *datacollection-entire-film-archive.ipynb*<br>
+
+description <br>
+
+file: *datacollection-entire-film-archive.py* <br>
+
+description
+
+
+![](figures/networks-core-broker-awardwinner.png)<br/>
+<br/>
+These figures are made by the great *graphlayouts* package.<br/>
+link: *https://github.com/schochastics/graphlayouts*<br/>
+<br/>
+
 
 
 
