@@ -13,20 +13,16 @@ Juhász, S.; Tóth, G. and Lengyel, B. (2019): Brokering the core and the periph
 ## Scripts <br>
 
 file: *datacollection-single-film-page.ipynb*<br>
-
-description <br>
+It collects data on title, production year, cinematographers, directors, editors, producers and writers of a single movie from the Hungarian Film Archive online database. <br>
 
 file: *datacollection-all-movies-by-year.ipynb*<br>
-
-description <br>
+It collects data on title, production year, cinematographers, directors, editors, producers and writers of all movies produced in a year from the Hungarian Film Archive online database. <br>
 
 file: *datacollection-entire-film-archive.ipynb*<br>
-
-description <br>
+It collects data on title, production year, cinematographers, directors, editors, producers and writers of all movies listed in the Hungarian Film Archive online database. <br>
 
 file: *datacollection-entire-film-archive.py* <br>
-
-description<br>
+Easy to run .py script to collect all the available data from the Hungarian Film Archive online database. <br>
 
 
 ## Data <br>
