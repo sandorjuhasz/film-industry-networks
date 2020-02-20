@@ -9,15 +9,6 @@ Juhász, S.; Tóth, G. and Lengyel, B. (2019): Brokering the core and the periph
 
 *link* <br>
 
-## DATA <br>
-
-Description - two short dataset collected from the website of the Hungarian Film Archive *link*. Both datasets are anonymized and only used for the purpose of the paper above. <br>
-
-file: *creator_movie_BASE_1975_2010.csv* <br>
-
-file: *award_winners.csv* <br>
-
-
 
 ## Scripts <br>
 
@@ -35,15 +26,26 @@ description <br>
 
 file: *datacollection-entire-film-archive.py* <br>
 
-description
+description<br>
+
+
+## Data <br>
+
+The data folder contains two datasets about Hungarian feature films, their creators and their awards at the Hungarian Film Week in 1975-2010. Datasets were constructed on the bases of the Hungarian Film Archive *http://mandarchiv.hu/tart/jatekfilm* and the Hungarian Film Yearbooks *https://filmarchiv.hu/hu/tudastar/kiadvany-archivum/filmevkonyv*. Both datasets are anonymized and only used for the purpose of the research paper above. <br>
+
+file: *creator_movie_BASE_1975_2010.csv* <br>
+Dataset on feature films, their production year and their creators (cinematographers, directors, editors, producers and writers), in 1975-2010. Collected and anonymized in 2017. 
+
+file: *award_winners.csv* <br>
+Dataset only on award winning feature film creators in 1976-2009. For award winning both individual and best picture categories are considered at the Hugnarian Film Weeks.<br>
 
 
 ## Figures <br>
-The figure below represents core, broker and award winner creators in the network of 2006. Uniformly large nodes represent award winners in all three graphs. Colours of the nodes show their special positions as Core, Broker and Core & Broker & Award winner creators. Nodes with a higher degree of centrality are closer to the center of the circular layout. The network is based on a 7-year moving window, where nodes represent movie creators and edges represent collaboration on all movies made during the 7-year period. The layout is created by the graphlayouts R package. <br>
+The figure below captures the collaboration network of movie creators on Hungarian feature films in 2006. The network is based on a 7-year moving window, where nodes represent movie creators and edges represent collaboration on all movies made between 2000 and 2006. Nodes with a higher degree of centrality are closer to the center of the circular layout.  Uniformly large nodes represent award winners in all three graphs. Colours of the nodes show their special positions as Core, Broker and Core & Broker & Award winner creators. The layout is created by the graphlayouts R package. <br>
 link: *https://github.com/schochastics/graphlayouts*<br/>
 <br/>
 ![](figures/networks-core-broker-awardwinner.png)<br/>
-<br/>
+
 
 
 
