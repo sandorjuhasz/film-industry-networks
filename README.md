@@ -24,6 +24,8 @@ It collects data on title, production year, cinematographers, directors, editors
 file: *datacollection-entire-film-archive.py* <br>
 Easy to run .py script to collect all the available data from the Hungarian Film Archive online database. <br>
 
+file: *network-visuals.R* <br>
+It constructs and visualizes the collaboration network of movie creators in 2006 (see below). <br>
 
 ## Data <br>
 
